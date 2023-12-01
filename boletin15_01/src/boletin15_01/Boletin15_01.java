@@ -11,7 +11,7 @@ public class Boletin15_01 {
     public static void main(String[] args) {
         
         Futbolista obxF = new Futbolista ();
-        obxF.setDemarcacion("3preitoretk");
+        obxF.setDemarcacion("rdsfsdkjfsduifbsduifbsdufbsduiofbuisdf");
         obxF.setDorsal(345);
         obxF.setNome("rgdfg");
         obxF.setApelido("erst");
